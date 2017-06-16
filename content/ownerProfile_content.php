@@ -1,177 +1,218 @@
 
-    <div class="carousel-inner">
-      <div class="jumborton bg-1">
-        <img src="../img/res.jpg" alt="New York" class="img-responsive bg-1">
-        <div class="carousel-caption text-center" style="margin-bottom:-50px">
-        
-          <h3>Daw Hla Mont T</h3>
-          <h3>Close within 30 min</h3>
-          
-        </div>      
+<div class="container content">
+    <div class="card shopcard">
+      <div class="container-fliud">
+        <div class="wrapper row">
+          <div class="preview col-md-6">
+            
+            <div class="preview-pic tab-content">
+              <div class="tab-pane active col-md-offset-1"><img src="../img/images1.jpg" id="pic" /></div>
+            </div>
+          </div>
+          <div class="col-md-4 col-md-offset-1">
+            <h3 class="product-title">The Pizza Company</h3>
+            <br>
+            <h4> Closed within 30 min </h4>
+            <h5 class="text-muted"> Opening Time : 9 am </h5>
+            <h5 class="text-muted"> Closing Time &nbsp;: 9 pm </h5>
+            <br>
+            <span class="text-muted">106(B), Baho*Bagaya Str, North San Chaung</span><br>
+            
+            <a type="button" data-toggle="modal" data-target="#myModalAdd" class = "btn btn-primary btn-block wave-effect" style="margin-top: 15px;">Add Menu</a>
+            <a href="../form/Editshoptest.php" class = "btn btn-primary btn-block wave-effect" style="margin-top: 15px;">Edit Restaurant Info</button>
+
+          </div>
+        </div>
       </div>
-           
-  </div><!--end of carousel inner -->
-  <br>
-  <div class="container-fluid">
-  <div class="row">
-  <div class="col-sm-4 text-center">
-<div class="w3-card-4 text-center" style="width:100%; height:100%; position:fixed-top">
-<br><br><br>
-    <h1>Moe Ma Kha Street </h1>
-  
-
-    <h1>Kyone Taw </h1>
-    <h1>San Chaung Township </h1>
-    <br><br>
-    <h1> Opening Time : 9 am </h1>
-    <h1> Closing Time : 9 pm </h1>
-    <br><br><br><br><br><br><br><br>
-  </div>
-  
-  </div>
-  <div class="col-sm-8 text-center">
-  <div class="row">
-  <div class="col-sm-4 text-center">
-   <div class="thumbnail">
-  <img src="../img/aa.jpg"><br>
-
-  <div class="dropdown dropbtn img-css">
-           <a href="#aa.jpg">Myanmar food</a>
-            <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
-             <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu">
-              <li ><a type="button" data-toggle="modal" data-target="#myModalAdd">ADD</a></li>
-              <li><a type="button" data-toggle="modal" data-target="#myModalEdit">UPDATE</a></li>
-              <li><a type="button" data-toggle="modal" data-target="#myModalDelete">DELETE</a></li>
-            </ul>
-           </div> <!--end of dropdown -->
-           <br>
-           </div>
-  </div>
-  <div class="col-sm-4 text-center">
-   <div class="thumbnail">
-  <img src="../img/aa.jpg"><br>
-
-  <div class="dropdown dropbtn img-css">
-           <a href="#aa.jpg">Myanmar food</a>
-            <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
-             <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a href="#">ADD</a></li>
-              <li><a href="#">UPDATE</a></li>
-              <li><a href="#">DELETE</a></li>
-            </ul>
-           </div> <!--end of dropdown -->
-           <br>
-           </div>
-  </div>
-  <div class="col-sm-4 text-center">
-   <div class="thumbnail">
-  <img src="../img/aa.jpg"><br>
-
-  <div class="dropdown dropbtn img-css">
-           <a href="#aa.jpg">Myanmar food</a>
-            <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
-             <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a href="#">ADD</a></li>
-              <li><a href="#">UPDATE</a></li>
-              <li><a href="#">DELETE</a></li>
-            </ul>
-           </div> <!--end of dropdown -->
-           <br>
-           </div>
-  
-  </div>
-  </div><!--end of inner row -->
-  <div class="row">
-  <div class="col-sm-4 text-center">
-   <div class="thumbnail">
-  <img src="../img/aa.jpg"><br>
-
-  <div class="dropdown dropbtn img-css">
-           <a href="#aa.jpg">Myanmar food</a>
-            <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
-             <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a href="#">ADD</a></li>
-              <li><a href="#">UPDATE</a></li>
-              <li><a href="#">DELETE</a></li>
-            </ul>
-           </div> <!--end of dropdown -->
-           <br>
-           </div>
     </div>
-  <div class="col-sm-4 text-center">
-   <div class="thumbnail">
-  <img src="../img/aa.jpg"><br>
+</div><!--end of profile -->
+  <h3 class="page-header col-md-9 col-md-offset-1" style="color: #CC0000;">Available Menu</h3>
+<div class="container">
+      <div class="card_collection">
 
-  <div class="dropdown dropbtn img-css">
-           <a href="#aa.jpg">Myanmar food</a>
-            <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
-             <span class="caret"></span>
+        <div class="card col-md-3 col-lg-2 col-sm-6">
+          <div class="card-img text-center">
+            <a class="card-title curry" href="../main/itemDetail.php">
+            <img class="card-img-top" src="../img/chicken1.jpg" alt="Card image cap">
+            </a>
+          </div>
+
+          <div>
+            <button class="btn btn-default dropdown-toggle pull-right" type="button" data-toggle="dropdown">
+              <span class="caret"></span>           
             </button>
-            <ul class="dropdown-menu">
-              <li><a href="#">ADD</a></li>
-              <li><a href="#">UPDATE</a></li>
-              <li><a href="#">DELETE</a></li>
-            </ul>
-           </div> <!--end of dropdown -->
-           <br>
-           </div>
-  
-  </div>
-  <div class="col-sm-4 text-center">
-   <div class="thumbnail">
-  <img src="../img/aa.jpg"><br>
+            <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
+            <h5 class="card-title">2500MMK</h5>
 
-  <div class="dropdown dropbtn img-css">
-           <a href="#aa.jpg">Myanmar food</a>
-            <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
-             <span class="caret"></span>
+
+            <ul class="dropdown-menu">
+              <li><a type="button" data-toggle="modal" data-target="#myModalEdit" >Update</a></li>
+              <li><a type="button" data-toggle="modal" data-target="#myModalDelete" >Delete</a></li>
+            </ul>
+          </div> <!--end of dropdown -->
+        </div> <!--end of card -->
+
+        <div class="card col-md-3 col-lg-2 col-sm-6">
+          <div class="card-img text-center">
+            <a class="card-title curry" href="../main/itemDetail.php">
+            <img class="card-img-top" src="../img/chicken1.jpg" alt="Card image cap">
+            </a>
+          </div>
+
+          <div>
+            <button class="btn btn-default dropdown-toggle pull-right" type="button" data-toggle="dropdown">
+              <span class="caret"></span>           
             </button>
+            <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
+            <h5 class="card-title">2500MMK</h5>
+
+
             <ul class="dropdown-menu">
-              <li><a href="#">ADD</a></li>
-              <li><a href="#">UPDATE</a></li>
-              <li><a href="#">DELETE</a></li>
+              <li><a type="button" data-toggle="modal" data-target="#myModalEdit" >Update</a></li>
+              <li><a type="button" data-toggle="modal" data-target="#myModalDelete" >Delete</a></li>
             </ul>
-           </div> <!--end of dropdown -->
-           <br>
-           </div>
-   </div>
-  </div><!--end of inner row -->
-  </div><!--end of col-sm-8 -->
-  </div><!--end of row -->
+          </div> <!--end of dropdown -->
+        </div> <!--end of card -->
 
-  <div class="jumbotron"><!--begin of map-->
-  
-  <div id="map">
+        <div class="card col-md-3 col-lg-2 col-sm-6">
+          <div class="card-img text-center">
+            <a class="card-title curry" href="../main/itemDetail.php">
+            <img class="card-img-top" src="../img/chicken1.jpg" alt="Card image cap">
+            </a>
+          </div>
 
- <script>
-      function initMap() {
-        var uluru = {lat: 16.807658, lng: 96.155082};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 16,
-          center: uluru
-        });
-        var marker = new google.maps.Marker({
-          position: uluru,
-          map: map
-        });
-      }
-    </script>
- <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhFALMY4KzCEaCuet466sZt_UneIOe93c&callback=initMap">
-    </script>
-    
+          <div>
+            <button class="btn btn-default dropdown-toggle pull-right" type="button" data-toggle="dropdown">
+              <span class="caret"></span>           
+            </button>
+            <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
+            <h5 class="card-title">2500MMK</h5>
 
-  </div>
 
- </div> 
+            <ul class="dropdown-menu">
+              <li><a type="button" data-toggle="modal" data-target="#myModalEdit" >Update</a></li>
+              <li><a type="button" data-toggle="modal" data-target="#myModalDelete" >Delete</a></li>
+            </ul>
+          </div> <!--end of dropdown -->
+        </div> <!--end of card -->
+
+        <div class="card col-md-3 col-lg-2 col-sm-6">
+          <div class="card-img text-center">
+            <a class="card-title curry" href="../main/itemDetail.php">
+            <img class="card-img-top" src="../img/chicken1.jpg" alt="Card image cap">
+            </a>
+          </div>
+
+          <div>
+            <button class="btn btn-default dropdown-toggle pull-right" type="button" data-toggle="dropdown">
+              <span class="caret"></span>           
+            </button>
+            <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
+            <h5 class="card-title">2500MMK</h5>
+
+
+            <ul class="dropdown-menu">
+              <li><a type="button" data-toggle="modal" data-target="#myModalEdit" >Update</a></li>
+              <li><a type="button" data-toggle="modal" data-target="#myModalDelete" >Delete</a></li>
+            </ul>
+          </div> <!--end of dropdown -->
+        </div> <!--end of card -->
+
+        <div class="card col-md-3 col-lg-2 col-sm-6">
+          <div class="card-img text-center">
+            <a class="card-title curry" href="../main/itemDetail.php">
+            <img class="card-img-top" src="../img/chicken1.jpg" alt="Card image cap">
+            </a>
+          </div>
+
+          <div>
+            <button class="btn btn-default dropdown-toggle pull-right" type="button" data-toggle="dropdown">
+              <span class="caret"></span>           
+            </button>
+            <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
+            <h5 class="card-title">2500MMK</h5>
+
+
+            <ul class="dropdown-menu">
+              <li><a type="button" data-toggle="modal" data-target="#myModalEdit" >Update</a></li>
+              <li><a type="button" data-toggle="modal" data-target="#myModalDelete" >Delete</a></li>
+            </ul>
+          </div> <!--end of dropdown -->
+        </div> <!--end of card -->
+
+        <div class="card col-md-3 col-lg-2 col-sm-6">
+          <div class="card-img text-center">
+            <a class="card-title curry" href="../main/itemDetail.php">
+            <img class="card-img-top" src="../img/chicken1.jpg" alt="Card image cap">
+            </a>
+          </div>
+
+          <div>
+            <button class="btn btn-default dropdown-toggle pull-right" type="button" data-toggle="dropdown">
+              <span class="caret"></span>           
+            </button>
+            <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
+            <h5 class="card-title">2500MMK</h5>
+
+
+            <ul class="dropdown-menu">
+              <li><a type="button" data-toggle="modal" data-target="#myModalEdit" >Update</a></li>
+              <li><a type="button" data-toggle="modal" data-target="#myModalDelete" >Delete</a></li>
+            </ul>
+          </div> <!--end of dropdown -->
+        </div> <!--end of card -->
+
+        <div class="card col-md-3 col-lg-2 col-sm-6">
+          <div class="card-img text-center">
+            <a class="card-title curry" href="../main/itemDetail.php">
+            <img class="card-img-top" src="../img/chicken1.jpg" alt="Card image cap">
+            </a>
+          </div>
+
+          <div>
+            <button class="btn btn-default dropdown-toggle pull-right" type="button" data-toggle="dropdown">
+              <span class="caret"></span>           
+            </button>
+            <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
+            <h5 class="card-title">2500MMK</h5>
+
+
+            <ul class="dropdown-menu">
+              <li><a type="button" data-toggle="modal" data-target="#myModalEdit" >Update</a></li>
+              <li><a type="button" data-toggle="modal" data-target="#myModalDelete" >Delete</a></li>
+            </ul>
+          </div> <!--end of dropdown -->
+        </div> <!--end of card -->
+      </div> <!--end of card collection-->
+</div> <!--end of container_card -->
+
+
+
+<div class="jumbotron" class="col-md-10"><!--begin of map-->
+
+  <div id="mapView">
+
+   <script>
+   function initMap() {
+    var uluru = {lat: 16.807658, lng: 96.155082};
+    var map = new google.maps.Map(document.getElementById('mapView'), {
+      zoom: 16,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+  }
+  </script>
+  <script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhFALMY4KzCEaCuet466sZt_UneIOe93c&callback=initMap">
+  </script>
+
+
+</div>
+
+</div> 
 <!--end of map -->
 
 

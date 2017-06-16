@@ -28,110 +28,117 @@
     <!-- Page Content -->
     <div class="container">
 
-        
-
             <div class="col-lg-12">
                 <h1 class="page-header category">Food</h1>
             </div>
 
            <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken1.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/itemDetail.php">KFC</a>
             </div>
           </div>
           
            <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/itemDetail.php">KFC</a>
             </div>
           </div>
            <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
            <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
            <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
            <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
            <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
             <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
             <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
            <div class="card col-md-3 col-lg-2 col-sm-6">
@@ -142,34 +149,38 @@
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
             <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
             <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">
               <h4><a class="card-title curry" href="../main/itemDetail.php">Fried Chicken</a></h4>
               <h5 class="card-title">2500MMK</h5>
-              <a href="../main/category.php">KFC</a>
             </div>
           </div>
-              <div class="card col-md-3 col-lg-2 col-sm-6">
+          
+          <div class="card col-md-3 col-lg-2 col-sm-6">
             <div class="card-img text-center">
-              <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              <a class="card-title curry" href="../main/itemDetail.php">
+                <img class="card-img-top" src="../img/chicken.jpg" alt="Card image cap">
+              </a>
             </div>
             
             <div class="card-block">

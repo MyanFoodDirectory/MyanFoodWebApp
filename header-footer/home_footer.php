@@ -1,3 +1,12 @@
+
+<!-- Footer 
+<footer class="text-center">
+  <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO  TOP">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a><br><br>
+  <p><a href="https://www.myanmarfooddirectory.com" data-toggle="tooltip" title="Visit Myanmar Food Directory">www.myanmarfooddirectory.com</a></p> 
+</footer>-->
+
 <!--Footer-->
           <footer class="page-footer blue center-on-small-only col-md-12">
 

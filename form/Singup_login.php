@@ -27,8 +27,9 @@
 									<input class="form-control" type="email" required="" style="margin-bottom: 20px;" placeholder="Email" id="inputEmail">
 									<input class="form-control" type="password" required="" style="margin-bottom: 20px;" placeholder="Password" autofocus="" id="inputPassword">
 									<input class="form-control" type="password" required="" style="margin-bottom: 20px;" placeholder="Confirm-Password" id="inputcPassword">
-									<button class="btn btn-primary btn-block btn-lg btn-signin" type="submit">Sign up</button>
-									</div>
+									<a href="../form/UploadRestaurant.php" class="btn btn-primary btn-block btn-lg btn-signin" type="submit">Sign up</a>
+								
+							</div>
 						</div>
 					</div>
 				</div>

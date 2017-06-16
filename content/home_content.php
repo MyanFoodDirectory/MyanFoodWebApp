@@ -26,7 +26,7 @@
                                     <span class="glyphicon glyphicon-search form-control-feedback"></span>
                                   </div>
                                 </form><br>
-                                <a href="../main/search.php" target="_blank" class="btn btn-floating pull-right" style="background: #CC0000;color: white;width: 80px;">Search</a>
+                                <a href="../main/search.php" class="btn btn-floating pull-right" style="background: #CC0000;color: white;width: 80px;">Search</a>
                               </div>
                             </div>
                           </div>
