@@ -1,0 +1,44 @@
+<!--h4> Closed within 
+            <?php
+              $date = new DateTime('now');
+               $date->setTimezone(new DateTimeZone('Asia/Rangoon'));
+                $sys_hour= $date->format('H');
+                $countstart_hour=$v2-1;
+
+             /*$ate->setTimezone(new DateTimeZone('Asia/Rangoon'));*/
+              if($countstart_hour==$sys_hour)
+              {
+                
+              ?>
+                <div id="timer" style="width: 150px; height: 40px;margin:20px;color:red;font-size: 30px;font-family: 'Times New Roman';"></div>
+
+              <?php
+              }
+
+             /*$time= $date->format('H:i:s');
+             $close_time=$v3;
+             $close_time = preg_replace("/^([\d]{1,2})\:([\d]{2})$/", "00:$1:$2", $close_time);
+              sscanf($close_time, "%d:%d:%d", $hour, $minute, $second);*/
+              
+              /*$close_minute=$hour*60+$minute+$second/60;
+              echo $close_minute;*/
+
+
+           /* $str_time = $time;
+
+            $str_time = preg_replace("/^([\d]{1,2})\:([\d]{2})$/", "00:$1:$2", $str_time);
+
+            sscanf($str_time, "%d:%d:%d", $hours, $minutes, $seconds);*/
+
+/*            $time_minute = $hours*60+$minutes+$seconds/60;
+            echo $time_minute;
+            $res=$close_minute-$time_minute;
+            echo $res;*/
+
+
+
+
+              
+              
+
+            ?>  min</h4-->
