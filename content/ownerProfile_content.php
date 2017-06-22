@@ -1,3 +1,4 @@
+
 <?php
 include ("../DB/config.php");
 $stmt4=$conn ->query("SELECT * FROM restaurantstable,ownertable WHERE restaurantstable.ownerId=ownertable.ownerId and ownertable.ownerId='593e45d31eaa288f03829a91';");
@@ -34,7 +35,6 @@ $img=$row['restaurantPhoto'];
            
             <button type = "button" class = "btn btn-primary btn-block wave-effect" style="margin-top: 15px;">Add Menu</button>
             <button type = "button" class = "btn btn-primary btn-block wave-effect" style="margin-top: 15px;">Edit ShopInfo</button>
-
           </div>
         </div>
       </div>
@@ -44,6 +44,7 @@ $img=$row['restaurantPhoto'];
 <div class="container">
       <div class="card_collection">
 
+<<<<<<< HEAD
 
 
 <?php
@@ -58,10 +59,8 @@ while ($row=$stmt4->fetch(PDO::FETCH_ASSOC)) {
           <div class='card-img text-center'>
             <a class='card-title curry' href='../main/itemDetail.php'>
             <img class='card-img-top' src='".$row['itemPhoto']."' alt='Card image cap'>
-            </a>
-          </div>
 
-          <div>
+
             <button class='btn btn-default dropdown-toggle pull-right' type='button' data-toggle='dropdown'>
               <span class='caret'></span>           
             </button>
@@ -107,7 +106,6 @@ while ($row=$stmt4->fetch(PDO::FETCH_ASSOC)) {
 
 
 </div>
-
 </div> 
 <!--end of map -->
 
